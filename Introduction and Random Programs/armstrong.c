@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    int x,og,z,s=0,i=0;
+    int x,og,z,s=0;
     printf("Enter a 3 digit number: ");
     scanf("%d",&x);
     og=x;
